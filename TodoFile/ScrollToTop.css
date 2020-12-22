@@ -1,0 +1,17 @@
+.sc-bdVaJa.bOeOea::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
+}
+
+.sc-bdVaJa.bOeOea::-webkit-scrollbar-thumb {
+  background-color: #ffffff;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
+}
+
+.sc-bdVaJa.bOeOea::-webkit-scrollbar-thumb:hover {
+  background-color: #ffffff;
+}
+
+.arrowIcon {
+  font-size: 55px !important;
+  color: #00aff7;
+}

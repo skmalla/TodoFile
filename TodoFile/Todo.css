@@ -1,0 +1,15 @@
+select {
+  padding: 5% !important;
+  font-size: medium;
+  background-color: rgb(242, 248, 248);
+  border-radius: 6px;
+  border: 1px solid #85d6f7 !important;
+  /* border-right: 3px solid #85d6f7 !important; */
+}
+
+select:hover,
+select:focus {
+  color: #c0392b;
+  background-color: white !important;
+  border-bottom-color: #dcdcdc;
+}
